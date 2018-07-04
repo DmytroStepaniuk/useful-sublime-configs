@@ -1,0 +1,32 @@
+{
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"draw_white_space": "all",
+	"enable_telemetry": "auto",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"SideBarEnhancements",
+		"Vintage"
+	],
+	"index_files": true,
+	"line_padding_bottom": 0.5,
+	"line_padding_top": 0.5,
+	"new_window_settings":
+	{
+		"show_minimap": false
+	},
+	"rulers":
+	[
+		130
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"
+}
