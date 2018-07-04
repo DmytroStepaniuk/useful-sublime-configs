@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"Babel",
+		"Better RSpec",
+		"BracketHighlighter",
+		"Crystal",
+		"Elixir",
+		"Handlebars",
+		"JSX",
+		"Package Control",
+		"Pug",
+		"RSpec",
+		"Ruby Slim",
+		"SaltStack-related syntax highlighting and snippets",
+		"Slime",
+		"Stylus",
+		"TypeScript"
+	]
+}
